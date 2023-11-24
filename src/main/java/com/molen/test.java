@@ -13,5 +13,6 @@ public class test {
         System.out.println("class");
         System.out.println("hello,github");
         System.out.println("hello, myGithub");
+        System.out.println("hello, idea");
     }
 }
