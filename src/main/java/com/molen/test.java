@@ -12,5 +12,6 @@ public class test {
         System.out.println("branch1");
         System.out.println("class");
         System.out.println("hello,github");
+        System.out.println("hello, myGithub");
     }
 }
